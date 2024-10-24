@@ -12,4 +12,4 @@ git commit -m "message"  >>> to commit the changes in the tracked file
 
 git push origin main >>> pushing the file to the main branch in Githb repository
 
-git add filename  >>> specified aayittolla file track cheyyan
+git add filename  >>> specified aayittolla file track cheyyan                                          (q >> type cheyyan pattathappol)
